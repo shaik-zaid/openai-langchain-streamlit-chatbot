@@ -140,9 +140,8 @@ Streamlit Response
 
 Add a screenshot of the running app:
 
-```
 ![App Screenshot](screenshot.png)
-```
+
 
 
 ## 🧑‍💻 Author
